@@ -1,4 +1,4 @@
-# NetworkTrainingApiExample
+# Network Training Api Example
 
 ## Example of an API that was used during the Networking Presentation
 
