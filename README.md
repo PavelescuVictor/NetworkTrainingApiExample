@@ -6,4 +6,6 @@
 -   Clone the repository
 -   Run yarn install
 -   Run yarn start
--   Go to postman and import HTTP Demo.postman_collection.json file and experiment with those api calls
+-   In Postman import the HTTP Demo.postman_collection.json file and experiment with those api calls. This file contains the API calls used in the presentation
+
+If you have any questions or technical difficulties, message me anytime.
